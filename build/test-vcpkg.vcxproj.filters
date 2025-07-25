@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\khj02\Documents\GitHub\hearstock-hrtf-cpp\test-vcpkg\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\khj02\Documents\GitHub\hearstock-hrtf-cpp\test-vcpkg\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{899F904B-B500-31BE-907E-96C0B8C4678A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
