@@ -41,5 +41,5 @@
 *.dwo
 
 # Project
-./.vscode
+./.vscode/settings.json
 ./build
